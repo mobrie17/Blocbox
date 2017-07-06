@@ -86,6 +86,7 @@ display:inline-block;
 #menuSettings .dropit .dropit-open .dropit-submenu li {
   display: inline-block;
   margin-bottom: 20px;
+  text-align: left;
 }
 #menuSettings.dropit .dropit-open .dropit-submenu li:last-child {
   display: inline-block;
