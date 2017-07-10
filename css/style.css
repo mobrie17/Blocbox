@@ -544,6 +544,11 @@ top: 15px;
    .one-half {
      width:300px;
    }
+   footer .logo {
+     padding-top: 0;
+     border-top: 0;
+     margin-top: 0;
+   }
  }
 /* Tablets */
  @media (min-width:768px) {
@@ -603,7 +608,6 @@ top: 15px;
   .hamburger {
     display:none;
   }
-}
   footer{
     background-color: #3498DB;
     background-image: linear-gradient(to left,
